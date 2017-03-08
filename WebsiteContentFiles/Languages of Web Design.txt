@@ -1,0 +1,29 @@
+Essential Languages of Web Design
+	HTML
+		HyperText Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS), and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.[1] Web browsers receive HTML documents from a webserver or from local storage and render them into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
+		HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects, such as interactive forms, may be embedded into the rendered page. It provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. HTML elements are delineated by tags, written using angle brackets. Tags such as <img /> and <input /> introduce content into the page directly. Others such as <p>...</p> surround and provide information about document text and may include other tags as sub-elements. Browsers do not display the HTML tags, but use them to interpret the content of the page.
+		HTML can embed programs written in a scripting language such as JavaScript which affect the behavior and content of web pages. Inclusion of CSS defines the look and layout of content. The World Wide Web Consortium (W3C), maintainer of both the HTML and the CSS standards, has encouraged the use of CSS over explicit presentational HTML since 1997.
+		From HTML https://en.wikipedia.org/wiki/HTML
+		
+	CSS 
+		CSS was first developed in 1997 as a way for web developers to define the visual appearance of the web pages that they were creating. It was intended to allow web professional to separate the content and structure of a website's code from the visual design. This separation of structure and style allows HTML to perform more of the function that it was originally based on - the markup of content, without having to worry about the design and layout of the page itself.
+		CSS didn't gain in popularity until around 2000, when web browsers began using more than the basic font and color aspects of CSS. Today, all modern browsers support all of CSS Level 1, most of CSS Level 2, and even most aspects of CSS Level 3. As CSS continues to evolve and new styles are introduced, web browsers have begun to implement modules that bring new CSS support into those browsers and give web designers powerful new styling tools to work with.
+
+		In years past, there were select web designers that refused to use CSS for the design and development of web sites, but that practice is all but gone from the industry today. CSS is now a widely used standard in web design, and you would be hard pressed to find anyone working in the industry today who did not have at least a basic understanding of this language.
+
+		The terms CSS stands for Cascading Style Sheet.
+
+		The word "style sheet" refers to the document itself (like HTML, CSS files are really just text documents that can be edited with variety of programs).
+
+		Style sheets have been used for document design for years. They are the technical specifications for a layout, whether print or online. Print designers have long used style sheets to insure that their designs are printed exactly to specifications. A style sheet for a web page serves the same purpose, but with the added functionality of also telling the viewing engine (the web browser) how to render the document being viewed.
+		
+		From What is CSS and Where Is It Used? https://www.thoughtco.com/what-is-css-3466390
+		
+	What is JavaScript?
+		JavaScript is a cross-platform, object-oriented scripting language. It is a small and lightweight language. Inside a host environment (for example, a web browser), JavaScript can be connected to the objects of its environment to provide programmatic control over them.
+
+		JavaScript contains a standard library of objects, such as Array, Date, and Math, and a core set of language elements such as operators, control structures, and statements. Core JavaScript can be extended for a variety of purposes by supplementing it with additional objects; for example:
+
+		Client-side JavaScript extends the core language by supplying objects to control a browser and its Document Object Model (DOM). For example, client-side extensions allow an application to place elements on an HTML form and respond to user events such as mouse clicks, form input, and page navigation.
+		Server-side JavaScript extends the core language by supplying objects relevant to running JavaScript on a server. For example, server-side extensions allow an application to communicate with a database, provide continuity of information from one invocation to another of the application, or perform file manipulations on a server.
+		From Introduction JavaScript https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction
